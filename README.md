@@ -749,6 +749,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 
 | Name                 | Badge                                                                                                                                            | Markdown                                                                                                                                           |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Google Sheets        | ![Google Sheets](https://img.shields.io/badge/google_sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)                       | `![Google Sheets ](https://img.shields.io/badge/google_sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)`                      |                       
 | LibreOffice          | ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)                          | `![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)`                          |
 | Microsoft            | ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)                                   | `![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)`                                   |
 | Microsoft Access     | ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)              | `![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)`              |
@@ -758,6 +759,7 @@ Zod                | ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style
 | Microsoft SharePoint | ![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white) | `![Microsoft SharePoint ](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)` |
 | Microsoft Visio      | ![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)                | `![Microsoft Visio ](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)`                |
 | Microsoft Word       | ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)                    | `![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)`                    |
+
 
 [(Back to top)](#table-of-contents)
 
